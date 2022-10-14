@@ -1,0 +1,2 @@
+wheel
+pypandoc==1.4
